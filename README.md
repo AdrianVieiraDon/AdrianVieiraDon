@@ -6,7 +6,7 @@ Me gusta la carrera y tengo varios proyectos personales en mente. Me interesa pr
 
 ---
 
-### 📚 Actualmente
+### Actualmente
 Estoy explorando áreas como el análisis de datos y la inteligencia artificial, principalmente usando Python y JavaScript. No me enfoco mucho en diseño o frontend, me atrae más la lógica, el funcionamiento interno de los sistemas y cómo se conectan los datos.
 
 - Estudiando Ingeniería de Sistemas  
@@ -21,7 +21,7 @@ Este perfil es un espacio donde comparto proyectos personales, prácticas y todo
 
 ---
 
-### 🛠️ Lenguajes y tecnologías que estoy aprendiendo
+### Lenguajes y tecnologías que estoy aprendiendo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
@@ -35,7 +35,7 @@ Este perfil es un espacio donde comparto proyectos personales, prácticas y todo
 
 ---
 
-### 🧰 Herramientas
+### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
