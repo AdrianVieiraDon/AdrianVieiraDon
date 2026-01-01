@@ -21,6 +21,13 @@ Este perfil es un espacio donde comparto proyectos personales, prácticas y todo
 
 ---
 
+### Electrónica y proyectos autodidactas
+Me interesa la electrónica y realizo proyectos caseros pequeños aprendidos de manera autodidacta.  
+Trabajo con **Arduino, ESP32, GPS y diferentes módulos** para proyectos de domótica y otros sistemas integrados.  
+Estos proyectos complementan mi aprendizaje de Ingeniería de Sistemas y me permiten combinar hardware y software.
+
+---
+
 ### Lenguajes y tecnologías que estoy aprendiendo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
