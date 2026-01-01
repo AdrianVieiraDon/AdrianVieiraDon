@@ -1,6 +1,6 @@
 # Hola, soy Adrian 👋
 
-Soy estudiante de Ingeniería de Sistemas, actualmente en formación y en constante aprendizaje.
+Soy Julio Adrian Vieira Donado estudiante de Ingeniería de Sistemas, actualmente en formación y en constante aprendizaje.
 
 Me gusta la carrera y tengo varios proyectos personales en mente. Me interesa principalmente la parte lógica del desarrollo de software, especialmente el backend, las bases de datos y la resolución de problemas.
 
