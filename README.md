@@ -3,7 +3,7 @@
 Soy Julio Adrian Vieira Donado estudiante de Ingeniería de Sistemas, actualmente en formación y en constante aprendizaje.
 
 Me gusta la carrera y tengo varios proyectos personales en mente. Me interesa principalmente la parte lógica del desarrollo de software, especialmente el backend, las bases de datos y la resolución de problemas.
-
+_(También me estoy especializando en el uso de IA Generativa para el desarrollo de diversos tipos de aplicaciones)_
 ---
 
 ### Actualmente
